@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/textSelect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:hint="@string/info_message"
+        android:textStyle="italic"
+        android:textColor="#ff9494"
+        android:layout_marginTop="230dp" />
+    <Button
+        android:id="@+id/btnBeReady"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/be_ready" />
+
+    <Button
+        android:id="@+id/btnSend0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_LEDfollow"/>
+
+    <Button
+        android:id="@+id/btnSend1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_LEDbreath"/>
+
+    <Button
+        android:id="@+id/btnSend2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_CalculatorDEMO" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:layout_gravity="end"
+        android:textStyle="italic" />
+
+</LinearLayout>

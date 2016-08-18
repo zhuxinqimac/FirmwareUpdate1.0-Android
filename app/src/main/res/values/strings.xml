@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Android Firmware Update 1.0</string>
+
+    <string name="connect">Connect</string>
+    <string name="choose">Choose Update Firmare</string>
+    <string name="talk">Talk to Device</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="name">Zhu Xinqi/5140219240</string>
+
+    <string name="select_LEDbreath">LEDbreath</string>
+    <string name="select_LEDfollow">LEDfollow</string>
+    <string name="select_CalculatorDEMO">CalculatorDEMO</string>
+    <string name="be_ready">Be Ready</string>
+
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+    <string name="right">RIGHT</string>
+    <string name="left">LEFT</string>
+    <string name="message">Message</string>
+    <string name="receive_message">Receiving</string>
+    <string name="info_message">Info</string>
+    <string name="send">Send</string>
+    <string name="b1">B1</string>
+    <string name="b2">B2</string>
+    <string name="b3">B3</string>
+    <string name="b4">B4</string>
+
+</resources>
