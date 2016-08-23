@@ -3,4 +3,4 @@ This is a simple Android application that can flash firmware into a TI Board(tes
 
 <img src="images/firmwareupdate2.jpg" alt="firmpare update 2">
 
-If you want to know more about this app, please head to my blog: <a href="https://zhuxinqimac.github.io/project/firmwareupdate.html" class="_blank">https://zhuxinqimac.github.io/project/firmwareupdate.html</a>
+If you want to know more about this app, please head to my blog: <a href="http://zhuxinqi.space/project/firmwareupdate.html" class="_blank">http://zhuxinqi.space/project/firmwareupdate.html</a>
